@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.edu.mimuw.EqualLinesMatrixTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-05-17T20:01:56" hostname="LAPTOP-1SG8CIN8" time="0.161">
+  <properties/>
+  <testcase name="testNormRow()" classname="pl.edu.mimuw.EqualLinesMatrixTest" time="0.161"/>
+  <testcase name="testTimesRow()" classname="pl.edu.mimuw.EqualLinesMatrixTest" time="0.161"/>
+  <testcase name="testTimesMixed()" classname="pl.edu.mimuw.EqualLinesMatrixTest" time="0.161"/>
+  <testcase name="testTimesColumn()" classname="pl.edu.mimuw.EqualLinesMatrixTest" time="0.161"/>
+  <testcase name="testNormColumn()" classname="pl.edu.mimuw.EqualLinesMatrixTest" time="0.161"/>
+  <testcase name="testPlusColumn()" classname="pl.edu.mimuw.EqualLinesMatrixTest" time="0.161"/>
+  <testcase name="testPlusRow()" classname="pl.edu.mimuw.EqualLinesMatrixTest" time="0.161"/>
+  <testcase name="testPlusMixed()" classname="pl.edu.mimuw.EqualLinesMatrixTest" time="0.161"/>
+  <testcase name="testPathologicalArgumentsRow()" classname="pl.edu.mimuw.EqualLinesMatrixTest" time="0.16"/>
+  <testcase name="testPathologicalArgumentsColumn()" classname="pl.edu.mimuw.EqualLinesMatrixTest" time="0.161"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
