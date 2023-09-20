@@ -1,0 +1,718 @@
+Binary files original_minix_source/usr/src/external/bsd/atf/lib/libatf-c/libatf-c.a and minix_source/usr/src/external/bsd/atf/lib/libatf-c/libatf-c.a differ
+Binary files original_minix_source/usr/src/external/bsd/atf/lib/libatf-c/libatf-c_pic.a and minix_source/usr/src/external/bsd/atf/lib/libatf-c/libatf-c_pic.a differ
+Binary files original_minix_source/usr/src/external/bsd/file/lib/libmagic.a and minix_source/usr/src/external/bsd/file/lib/libmagic.a differ
+Binary files original_minix_source/usr/src/external/bsd/file/lib/libmagic_pic.a and minix_source/usr/src/external/bsd/file/lib/libmagic_pic.a differ
+Binary files original_minix_source/usr/src/external/bsd/libarchive/lib/libarchive/libarchive.a and minix_source/usr/src/external/bsd/libarchive/lib/libarchive/libarchive.a differ
+Binary files original_minix_source/usr/src/external/bsd/libarchive/lib/libarchive/libarchive_pic.a and minix_source/usr/src/external/bsd/libarchive/lib/libarchive/libarchive_pic.a differ
+Binary files original_minix_source/usr/src/external/bsd/libc++/lib/libc++.a and minix_source/usr/src/external/bsd/libc++/lib/libc++.a differ
+Binary files original_minix_source/usr/src/external/bsd/libc++/lib/libc++_pic.a and minix_source/usr/src/external/bsd/libc++/lib/libc++_pic.a differ
+Binary files original_minix_source/usr/src/external/bsd/mdocml/lib/libmandoc/libmandoc.a and minix_source/usr/src/external/bsd/mdocml/lib/libmandoc/libmandoc.a differ
+Binary files original_minix_source/usr/src/external/public-domain/sqlite/lib/libsqlite3.a and minix_source/usr/src/external/public-domain/sqlite/lib/libsqlite3.a differ
+Binary files original_minix_source/usr/src/external/public-domain/sqlite/lib/libsqlite3_pic.a and minix_source/usr/src/external/public-domain/sqlite/lib/libsqlite3_pic.a differ
+Binary files original_minix_source/usr/src/lib/libc/libc.a and minix_source/usr/src/lib/libc/libc.a differ
+Binary files original_minix_source/usr/src/lib/libc/libc_pic.a and minix_source/usr/src/lib/libc/libc_pic.a differ
+Binary files original_minix_source/usr/src/lib/libcurses/libcurses.a and minix_source/usr/src/lib/libcurses/libcurses.a differ
+Binary files original_minix_source/usr/src/lib/libcurses/libcurses_pic.a and minix_source/usr/src/lib/libcurses/libcurses_pic.a differ
+Binary files original_minix_source/usr/src/lib/libedit/libedit.a and minix_source/usr/src/lib/libedit/libedit.a differ
+Binary files original_minix_source/usr/src/lib/libedit/libedit_pic.a and minix_source/usr/src/lib/libedit/libedit_pic.a differ
+Binary files original_minix_source/usr/src/lib/libexecinfo/libexecinfo.a and minix_source/usr/src/lib/libexecinfo/libexecinfo.a differ
+Binary files original_minix_source/usr/src/lib/libexecinfo/libexecinfo_pic.a and minix_source/usr/src/lib/libexecinfo/libexecinfo_pic.a differ
+Binary files original_minix_source/usr/src/lib/libprop/libprop.a and minix_source/usr/src/lib/libprop/libprop.a differ
+Binary files original_minix_source/usr/src/lib/libprop/libprop_pic.a and minix_source/usr/src/lib/libprop/libprop_pic.a differ
+Binary files original_minix_source/usr/src/lib/libpuffs/libpuffs.a and minix_source/usr/src/lib/libpuffs/libpuffs.a differ
+Binary files original_minix_source/usr/src/lib/libpuffs/libpuffs_pic.a and minix_source/usr/src/lib/libpuffs/libpuffs_pic.a differ
+Binary files original_minix_source/usr/src/lib/librefuse/librefuse.a and minix_source/usr/src/lib/librefuse/librefuse.a differ
+Binary files original_minix_source/usr/src/lib/librefuse/librefuse_pic.a and minix_source/usr/src/lib/librefuse/librefuse_pic.a differ
+Binary files original_minix_source/usr/src/lib/librmt/librmt.a and minix_source/usr/src/lib/librmt/librmt.a differ
+Binary files original_minix_source/usr/src/lib/libterminfo/libterminfo.a and minix_source/usr/src/lib/libterminfo/libterminfo.a differ
+Binary files original_minix_source/usr/src/lib/libterminfo/libterminfo_pic.a and minix_source/usr/src/lib/libterminfo/libterminfo_pic.a differ
+Binary files original_minix_source/usr/src/lib/libutil/libutil.a and minix_source/usr/src/lib/libutil/libutil.a differ
+Binary files original_minix_source/usr/src/lib/libutil/libutil_pic.a and minix_source/usr/src/lib/libutil/libutil_pic.a differ
+Binary files original_minix_source/usr/src/minix/drivers/storage/memory/imgrd.mfs and minix_source/usr/src/minix/drivers/storage/memory/imgrd.mfs differ
+Binary files original_minix_source/usr/src/minix/drivers/storage/memory/imgrd.o and minix_source/usr/src/minix/drivers/storage/memory/imgrd.o differ
+Binary files original_minix_source/usr/src/minix/drivers/storage/memory/memory and minix_source/usr/src/minix/drivers/storage/memory/memory differ
+Binary files original_minix_source/usr/src/minix/drivers/storage/ramdisk/image and minix_source/usr/src/minix/drivers/storage/ramdisk/image differ
+Binary files original_minix_source/usr/src/minix/drivers/usb/usb_hub/usb_hub and minix_source/usr/src/minix/drivers/usb/usb_hub/usb_hub differ
+Binary files original_minix_source/usr/src/minix/drivers/usb/usb_hub/usb_hub.o and minix_source/usr/src/minix/drivers/usb/usb_hub/usb_hub.o differ
+diff '--color=auto' -rupNEZbB original_minix_source/usr/src/minix/include/minix/callnr.h minix_source/usr/src/minix/include/minix/callnr.h
+--- original_minix_source/usr/src/minix/include/minix/callnr.h	2014-09-13 23:56:50.000000000 +0200
++++ minix_source/usr/src/minix/include/minix/callnr.h	2023-06-12 01:27:50.000000000 +0200
+@@ -118,7 +118,9 @@
+ #define VFS_COPYFD		(VFS_BASE + 46)
+ #define VFS_CHECKPERMS		(VFS_BASE + 47)
+ #define VFS_GETSYSINFO		(VFS_BASE + 48)
++#define VFS_EXCLUSIVE		(VFS_BASE + 49)
++#define VFS_FEXCLUSIVE		(VFS_BASE + 50)
+ 
+-#define NR_VFS_CALLS		49	/* highest number from base plus one */
++#define NR_VFS_CALLS		51	/* highest number from base plus one */
+ 
+ #endif /* !_MINIX_CALLNR_H */
+diff '--color=auto' -rupNEZbB original_minix_source/usr/src/minix/include/minix/ipc.h minix_source/usr/src/minix/include/minix/ipc.h
+--- original_minix_source/usr/src/minix/include/minix/ipc.h	2014-09-13 23:56:50.000000000 +0200
++++ minix_source/usr/src/minix/include/minix/ipc.h	2023-06-12 01:27:50.000000000 +0200
+@@ -842,6 +842,16 @@ typedef struct {
+ _ASSERT_MSG_SIZE(mess_lc_vfs_umount);
+ 
+ typedef struct {
++	int fd;
++	vir_bytes name;
++	size_t len;
++	int flags;
++
++	uint8_t padding[40];
++} mess_lc_vfs_exclusive;
++_ASSERT_MSG_SIZE(mess_lc_vfs_exclusive);
++
++typedef struct {
+ 	void		*addr;
+ 	uint8_t		padding[52];
+ } mess_lc_vm_brk;
+@@ -2121,6 +2131,7 @@ typedef struct {
+ 		mess_lc_vfs_truncate	m_lc_vfs_truncate;
+ 		mess_lc_vfs_umask	m_lc_vfs_umask;
+ 		mess_lc_vfs_umount	m_lc_vfs_umount;
++		mess_lc_vfs_exclusive	m_lc_vfs_exclusive;
+ 		mess_lc_vm_brk		m_lc_vm_brk;
+ 		mess_lc_vm_getphys	m_lc_vm_getphys;
+ 		mess_lc_vm_rusage	m_lc_vm_rusage;
+diff '--color=auto' -rupNEZbB original_minix_source/usr/src/minix/kernel/extracted-mtype.h minix_source/usr/src/minix/kernel/extracted-mtype.h
+--- original_minix_source/usr/src/minix/kernel/extracted-mtype.h	2016-11-18 21:46:42.000000000 +0100
++++ minix_source/usr/src/minix/kernel/extracted-mtype.h	2023-06-12 01:30:20.000000000 +0200
+@@ -215,10 +215,12 @@ IDENT(VFS_CHROOT)
+ IDENT(VFS_CLOSE)
+ IDENT(VFS_COPYFD)
+ IDENT(VFS_CREAT)
++IDENT(VFS_EXCLUSIVE)
+ IDENT(VFS_FCHDIR)
+ IDENT(VFS_FCHMOD)
+ IDENT(VFS_FCHOWN)
+ IDENT(VFS_FCNTL)
++IDENT(VFS_FEXCLUSIVE)
+ IDENT(VFS_FSTAT)
+ IDENT(VFS_FSTATVFS1)
+ IDENT(VFS_FSYNC)
+Binary files original_minix_source/usr/src/minix/lib/libasyn/libasyn.a and minix_source/usr/src/minix/lib/libasyn/libasyn.a differ
+Binary files original_minix_source/usr/src/minix/lib/libasyn/libasyn_pic.a and minix_source/usr/src/minix/lib/libasyn/libasyn_pic.a differ
+Binary files original_minix_source/usr/src/minix/lib/libaudiodriver/libaudiodriver.a and minix_source/usr/src/minix/lib/libaudiodriver/libaudiodriver.a differ
+Binary files original_minix_source/usr/src/minix/lib/libaudiodriver/libaudiodriver_pic.a and minix_source/usr/src/minix/lib/libaudiodriver/libaudiodriver_pic.a differ
+Binary files original_minix_source/usr/src/minix/lib/libbdev/libbdev.a and minix_source/usr/src/minix/lib/libbdev/libbdev.a differ
+Binary files original_minix_source/usr/src/minix/lib/libbdev/libbdev_pic.a and minix_source/usr/src/minix/lib/libbdev/libbdev_pic.a differ
+Binary files original_minix_source/usr/src/minix/lib/libblockdriver/libblockdriver.a and minix_source/usr/src/minix/lib/libblockdriver/libblockdriver.a differ
+Binary files original_minix_source/usr/src/minix/lib/libblockdriver/libblockdriver_pic.a and minix_source/usr/src/minix/lib/libblockdriver/libblockdriver_pic.a differ
+Binary files original_minix_source/usr/src/minix/lib/libchardriver/libchardriver.a and minix_source/usr/src/minix/lib/libchardriver/libchardriver.a differ
+Binary files original_minix_source/usr/src/minix/lib/libchardriver/libchardriver_pic.a and minix_source/usr/src/minix/lib/libchardriver/libchardriver_pic.a differ
+Binary files original_minix_source/usr/src/minix/lib/libddekit/build/ddekit/libddekit.a and minix_source/usr/src/minix/lib/libddekit/build/ddekit/libddekit.a differ
+Binary files original_minix_source/usr/src/minix/lib/libddekit/build/ddekit/libddekit_pic.a and minix_source/usr/src/minix/lib/libddekit/build/ddekit/libddekit_pic.a differ
+Binary files original_minix_source/usr/src/minix/lib/libddekit/build/ddekit_usb_client/libddekit_usb_client.a and minix_source/usr/src/minix/lib/libddekit/build/ddekit_usb_client/libddekit_usb_client.a differ
+Binary files original_minix_source/usr/src/minix/lib/libddekit/build/ddekit_usb_client/libddekit_usb_client_pic.a and minix_source/usr/src/minix/lib/libddekit/build/ddekit_usb_client/libddekit_usb_client_pic.a differ
+Binary files original_minix_source/usr/src/minix/lib/libddekit/build/ddekit_usb_server/libddekit_usb_server.a and minix_source/usr/src/minix/lib/libddekit/build/ddekit_usb_server/libddekit_usb_server.a differ
+Binary files original_minix_source/usr/src/minix/lib/libddekit/build/ddekit_usb_server/libddekit_usb_server_pic.a and minix_source/usr/src/minix/lib/libddekit/build/ddekit_usb_server/libddekit_usb_server_pic.a differ
+Binary files original_minix_source/usr/src/minix/lib/libdevman/libdevman.a and minix_source/usr/src/minix/lib/libdevman/libdevman.a differ
+Binary files original_minix_source/usr/src/minix/lib/libdevman/libdevman_pic.a and minix_source/usr/src/minix/lib/libdevman/libdevman_pic.a differ
+Binary files original_minix_source/usr/src/minix/lib/libexec/libexec.a and minix_source/usr/src/minix/lib/libexec/libexec.a differ
+Binary files original_minix_source/usr/src/minix/lib/libexec/libexec_pic.a and minix_source/usr/src/minix/lib/libexec/libexec_pic.a differ
+Binary files original_minix_source/usr/src/minix/lib/libfetch/libfetch.a and minix_source/usr/src/minix/lib/libfetch/libfetch.a differ
+Binary files original_minix_source/usr/src/minix/lib/libhgfs/libhgfs.a and minix_source/usr/src/minix/lib/libhgfs/libhgfs.a differ
+Binary files original_minix_source/usr/src/minix/lib/libhgfs/libhgfs_pic.a and minix_source/usr/src/minix/lib/libhgfs/libhgfs_pic.a differ
+Binary files original_minix_source/usr/src/minix/lib/libinputdriver/libinputdriver.a and minix_source/usr/src/minix/lib/libinputdriver/libinputdriver.a differ
+Binary files original_minix_source/usr/src/minix/lib/libinputdriver/libinputdriver_pic.a and minix_source/usr/src/minix/lib/libinputdriver/libinputdriver_pic.a differ
+Binary files original_minix_source/usr/src/minix/lib/liblwip/liblwip.a and minix_source/usr/src/minix/lib/liblwip/liblwip.a differ
+Binary files original_minix_source/usr/src/minix/lib/liblwip/liblwip_pic.a and minix_source/usr/src/minix/lib/liblwip/liblwip_pic.a differ
+Binary files original_minix_source/usr/src/minix/lib/libminixfs/libminixfs.a and minix_source/usr/src/minix/lib/libminixfs/libminixfs.a differ
+Binary files original_minix_source/usr/src/minix/lib/libminixfs/libminixfs_pic.a and minix_source/usr/src/minix/lib/libminixfs/libminixfs_pic.a differ
+Binary files original_minix_source/usr/src/minix/lib/libnetdriver/libnetdriver.a and minix_source/usr/src/minix/lib/libnetdriver/libnetdriver.a differ
+Binary files original_minix_source/usr/src/minix/lib/libnetdriver/libnetdriver_pic.a and minix_source/usr/src/minix/lib/libnetdriver/libnetdriver_pic.a differ
+Binary files original_minix_source/usr/src/minix/lib/libnetsock/libnetsock.a and minix_source/usr/src/minix/lib/libnetsock/libnetsock.a differ
+Binary files original_minix_source/usr/src/minix/lib/libnetsock/libnetsock_pic.a and minix_source/usr/src/minix/lib/libnetsock/libnetsock_pic.a differ
+Binary files original_minix_source/usr/src/minix/lib/libsffs/libsffs.a and minix_source/usr/src/minix/lib/libsffs/libsffs.a differ
+Binary files original_minix_source/usr/src/minix/lib/libsffs/libsffs_pic.a and minix_source/usr/src/minix/lib/libsffs/libsffs_pic.a differ
+Binary files original_minix_source/usr/src/minix/lib/libsys/libsys.a and minix_source/usr/src/minix/lib/libsys/libsys.a differ
+Binary files original_minix_source/usr/src/minix/lib/libsys/libsys_pic.a and minix_source/usr/src/minix/lib/libsys/libsys_pic.a differ
+Binary files original_minix_source/usr/src/minix/lib/libusb/libusb.a and minix_source/usr/src/minix/lib/libusb/libusb.a differ
+Binary files original_minix_source/usr/src/minix/lib/libusb/libusb_pic.a and minix_source/usr/src/minix/lib/libusb/libusb_pic.a differ
+Binary files original_minix_source/usr/src/minix/lib/libvassert/libvassert.a and minix_source/usr/src/minix/lib/libvassert/libvassert.a differ
+Binary files original_minix_source/usr/src/minix/lib/libvboxfs/libvboxfs.a and minix_source/usr/src/minix/lib/libvboxfs/libvboxfs.a differ
+Binary files original_minix_source/usr/src/minix/lib/libvboxfs/libvboxfs_pic.a and minix_source/usr/src/minix/lib/libvboxfs/libvboxfs_pic.a differ
+Binary files original_minix_source/usr/src/minix/lib/libvirtio/libvirtio.a and minix_source/usr/src/minix/lib/libvirtio/libvirtio.a differ
+Binary files original_minix_source/usr/src/minix/lib/libvirtio/libvirtio_pic.a and minix_source/usr/src/minix/lib/libvirtio/libvirtio_pic.a differ
+Binary files original_minix_source/usr/src/minix/lib/libvtreefs/libvtreefs.a and minix_source/usr/src/minix/lib/libvtreefs/libvtreefs.a differ
+Binary files original_minix_source/usr/src/minix/lib/libvtreefs/libvtreefs_pic.a and minix_source/usr/src/minix/lib/libvtreefs/libvtreefs_pic.a differ
+Binary files original_minix_source/usr/src/minix/net/inet/inet and minix_source/usr/src/minix/net/inet/inet differ
+Binary files original_minix_source/usr/src/minix/net/inet/version.o and minix_source/usr/src/minix/net/inet/version.o differ
+diff '--color=auto' -rupNEZbB original_minix_source/usr/src/minix/servers/vfs/Makefile minix_source/usr/src/minix/servers/vfs/Makefile
+--- original_minix_source/usr/src/minix/servers/vfs/Makefile	2014-09-13 23:56:50.000000000 +0200
++++ minix_source/usr/src/minix/servers/vfs/Makefile	2023-06-12 01:27:50.000000000 +0200
+@@ -7,7 +7,8 @@ SRCS=	main.c open.c read.c write.c pipe.
+ 	filedes.c stadir.c protect.c time.c \
+ 	lock.c misc.c utility.c select.c table.c \
+ 	vnode.c vmnt.c request.c \
+-	tll.c comm.c worker.c coredump.c
++	tll.c comm.c worker.c coredump.c \
++	exclusive.c
+ 
+ .if ${MKCOVERAGE} != "no"
+ SRCS+=  gcov.c
+diff '--color=auto' -rupNEZbB original_minix_source/usr/src/minix/servers/vfs/const.h minix_source/usr/src/minix/servers/vfs/const.h
+--- original_minix_source/usr/src/minix/servers/vfs/const.h	2014-09-13 23:56:50.000000000 +0200
++++ minix_source/usr/src/minix/servers/vfs/const.h	2023-06-12 01:27:50.000000000 +0200
+@@ -7,6 +7,7 @@
+ #define NR_MNTS           16 	/* # slots in mount table */
+ #define NR_VNODES       1024	/* # slots in vnode table */
+ #define NR_WTHREADS	   9	/* # slots in worker thread table */
++#define NR_EXCLUSIVE	8	/* # slots in the exclusive locking table */
+ 
+ #define NR_NONEDEVS	NR_MNTS	/* # slots in nonedev bitmap */
+ 
+diff '--color=auto' -rupNEZbB original_minix_source/usr/src/minix/servers/vfs/exclusive.c minix_source/usr/src/minix/servers/vfs/exclusive.c
+--- original_minix_source/usr/src/minix/servers/vfs/exclusive.c	1970-01-01 01:00:00.000000000 +0100
++++ minix_source/usr/src/minix/servers/vfs/exclusive.c	2023-06-18 23:55:41.241323569 +0200
+@@ -0,0 +1,238 @@
++#include "fs.h"
++#include <sys/fcntl.h>
++#include <sys/stat.h>
++#include <minix/vfsif.h>
++#include "vnode.h"
++#include "path.h"
++#include "scratchpad.h"
++#include "file.h"
++#include "fproc.h"
++
++static struct locks {
++	struct vnode *vp;
++	uid_t v_uid;
++	pid_t pid;
++	int fd;
++	int deleted;
++} locks[NR_EXCLUSIVE];
++
++uid_t who_locked(struct vnode *vp) {
++	if (vp == NULL) return(-1);
++	for (int i = 0; i < NR_EXCLUSIVE; i++) {
++		if (locks[i].vp == NULL) continue;
++		if (locks[i].vp->v_inode_nr == vp->v_inode_nr) return(locks[i].v_uid);
++	}
++	return -1;
++}
++
++// -1 <=> not locked
++int is_vnode_exclusive(struct vnode *vp) {
++	if (vp == NULL) return(-1);
++	for (int i = 0; i < NR_EXCLUSIVE; i++) {
++		if (locks[i].vp == NULL) continue;
++		if (locks[i].vp->v_inode_nr == vp->v_inode_nr) return(i);
++	}
++	return -1;
++}
++
++int find_free_lock() {
++	for (int i = 0; i < NR_EXCLUSIVE; i++) {
++		if (locks[i].vp == NULL) return(i);
++	}
++	return -1;
++}
++
++void delete_lock(int index) {
++	locks[index].vp->v_ref_count--;
++	locks[index].vp = NULL;
++	locks[index].v_uid = -1;
++	locks[index].pid = -1;
++	locks[index].fd = -1;
++}
++
++void delete_vnode_lock(struct vnode *vp) {
++	for (int i = 0; i < NR_EXCLUSIVE; i++) {
++		if (locks[i].vp == NULL) continue;
++		if (locks[i].vp->v_inode_nr == vp->v_inode_nr) {
++			delete_lock(i);
++		}
++	}
++}
++
++void close_lock(struct vnode *vp, int fd) {
++	int index = is_vnode_exclusive(vp);
++	if (index == -1) return;
++	if (locks[index].fd == fd && locks[index].pid == fp->fp_pid) {
++		delete_lock(index);
++	}
++}
++
++int is_other_using(uid_t uid, struct vnode *vp) {
++	if (vp == NULL) return(0);
++	for (int i = 0; i < NR_PROCS; i++) {
++		if (fproc[i].fp_realuid != uid) {
++			for (int j = 0; j < OPEN_MAX; j++) {
++				if (fproc[i].fp_filp[j] != NULL && fproc[i].fp_filp[j]->filp_vno != NULL &&
++					fproc[i].fp_filp[j]->filp_vno->v_inode_nr == vp->v_inode_nr) {
++						return 1;
++					}
++			}
++		}
++	}
++	return 0;
++}
++
++void clear_locks() {
++	for (int i = 0; i < NR_EXCLUSIVE; i++) {
++		if (locks[i].vp != NULL) {
++			delete_lock(i);
++		}
++	}
++}
++
++void set_file_deleted(struct vnode *vp) {
++	if (vp == NULL) return;
++	for (int i = 0; i < NR_EXCLUSIVE; i++) {
++		if (locks[i].vp == NULL) continue;
++		if (locks[i].vp != NULL && locks[i].vp->v_inode_nr == vp->v_inode_nr) {
++			locks[i].deleted = 1;
++			return;
++		}
++	}
++}
++
++void try_unlocking(struct vnode *vp, int max) {
++	int index = is_vnode_exclusive(vp);
++	if (index == -1) return;
++	if (locks[index].deleted == 0 || locks[index].fd != -1) return;
++	int count = 0;
++	for (int i = 0; i < NR_PROCS; i++) {
++		for (int j = 0; j < OPEN_MAX; j++) {
++			if (fproc[i].fp_filp[j] != NULL && fproc[i].fp_filp[j]->filp_vno != NULL &&
++				fproc[i].fp_filp[j]->filp_vno->v_inode_nr == vp->v_inode_nr) {
++				if (++count > max) return;
++			}
++		}
++	}
++	delete_lock(index);
++}
++
++int check_fd(struct vnode *vp) {
++	int index = is_vnode_exclusive(vp);
++	if (index == -1) return 0;
++	return locks[index].fd;
++}
++
++int is_deleted(struct vnode *vp) {
++	int index = is_vnode_exclusive(vp);
++	if (index == -1) return 0;
++	return locks[index].deleted;
++}
++
++int real_exclusive(struct vnode *vp, int flags, int fd) {
++	int index;
++	switch(flags) {
++		case EXCL_LOCK_NO_OTHERS: {
++			if (is_vnode_exclusive(vp) != -1) return(EALREADY);
++			if (is_other_using(fp->fp_realuid, vp)) return(EAGAIN);
++		}
++		case EXCL_LOCK: {
++			if (is_vnode_exclusive(vp) != -1) return(EALREADY);
++			if ((index = find_free_lock()) == -1) return(ENOLCK);
++			vp->v_ref_count++;
++			locks[index].vp = vp;
++			locks[index].v_uid = fp->fp_realuid;
++			locks[index].pid = fp->fp_pid;
++			locks[index].fd = fd;
++			locks[index].deleted = 0;
++			return(OK);
++		}
++		case EXCL_UNLOCK: {
++			if ((index = is_vnode_exclusive(vp)) == -1) return(EINVAL);
++			if (locks[index].v_uid != fp->fp_realuid) return(EPERM);
++			delete_lock(index);
++			return(OK);
++		}
++		case EXCL_UNLOCK_FORCE: {
++			if ((index = is_vnode_exclusive(vp)) == -1) return(EINVAL);
++			if (locks[index].v_uid != fp->fp_realuid && SU_UID != fp->fp_realuid
++				&& vp->v_uid != fp->fp_realuid) return(EPERM);
++			locks[index].vp = NULL;
++			vp->v_ref_count--;
++			return(OK);
++		}
++		default: {
++			return(EINVAL);
++		}
++	}
++}
++
++/*===========================================================================*
++ *				do_exclusive				     *
++ *===========================================================================*/
++int do_exclusive(void) {
++	struct vnode *vp;
++	struct vmnt *vmp;
++	char fullpath[PATH_MAX];
++	vir_bytes vname;
++	size_t vname_length;
++	int flags;
++	struct lookup resolve;
++	int r;
++
++	vname = job_m_in.m_lc_vfs_exclusive.name;
++	vname_length = job_m_in.m_lc_vfs_exclusive.len;
++	flags = job_m_in.m_lc_vfs_exclusive.flags;
++
++	lookup_init(&resolve, fullpath, PATH_NOFLAGS, &vmp, &vp);
++	resolve.l_vmnt_lock = VMNT_READ;
++	resolve.l_vnode_lock = VNODE_WRITE;
++
++	if (fetch_name(vname, vname_length, fullpath) != OK) return(EINVAL);
++  	if ((vp = eat_path(&resolve, fp)) == NULL) return(EINVAL);
++
++	r = EACCES;
++	if (forbidden(fp, vp, W_BIT) == OK || forbidden(fp, vp, R_BIT) == OK) {
++			r = EFTYPE;
++			if (S_ISREG(vp->v_mode)) {
++				r = real_exclusive(vp, flags, -1);
++		}
++	}
++
++	unlock_vnode(vp);
++	unlock_vmnt(vmp);
++	put_vnode(vp);
++	return(r);
++}
++
++/*===========================================================================*
++ *				do_fexclusive				     *
++ *===========================================================================*/
++int do_fexclusive(void) {
++	struct filp *rfilp;
++	struct vnode *vp;
++	int r;
++	int flags = job_m_in.m_lc_vfs_exclusive.flags;
++	int fd = job_m_in.m_lc_vfs_exclusive.fd;
++
++	scratch(fp).file.fd_nr = fd;
++
++	/* File is already opened; get a vnode pointer from filp */
++	if (!(rfilp = get_filp(scratch(fp).file.fd_nr, VNODE_WRITE)) && 
++		!(rfilp = get_filp(scratch(fp).file.fd_nr, VNODE_READ)))
++		return(EBADF);
++
++	vp = rfilp->filp_vno;
++
++	r = EBADF;
++	if ((rfilp->filp_mode & (W_BIT | R_BIT))) {
++		r = EFTYPE;
++		if (S_ISREG(vp->v_mode)) {
++			r = real_exclusive(vp, flags, fd);
++		}
++	}
++
++	unlock_filp(rfilp);
++	return(r);
++
++}
+\ No newline at end of file
+Binary files original_minix_source/usr/src/minix/servers/vfs/exclusive.o and minix_source/usr/src/minix/servers/vfs/exclusive.o differ
+diff '--color=auto' -rupNEZbB original_minix_source/usr/src/minix/servers/vfs/link.c minix_source/usr/src/minix/servers/vfs/link.c
+--- original_minix_source/usr/src/minix/servers/vfs/link.c	2014-09-13 23:56:50.000000000 +0200
++++ minix_source/usr/src/minix/servers/vfs/link.c	2023-06-18 23:26:39.651749901 +0200
+@@ -98,7 +98,7 @@ int do_unlink(void)
+  */
+   struct vnode *dirp, *dirp_l, *vp;
+   struct vmnt *vmp, *vmp2;
+-  int r;
++  int r = OK;
+   char fullpath[PATH_MAX];
+   struct lookup resolve, stickycheck;
+ 
+@@ -128,15 +128,29 @@ int do_unlink(void)
+ 	return(r);
+   }
+ 
+-  /* Also, if the sticky bit is set, only the owner of the file or a privileged
+-     user is allowed to unlink */
+-  if ((dirp->v_mode & S_ISVTX) == S_ISVTX) {
+-	/* Look up inode of file to unlink to retrieve owner */
+ 	lookup_init(&stickycheck, resolve.l_path, PATH_RET_SYMLINK, &vmp2, &vp);
+ 	stickycheck.l_vmnt_lock = VMNT_READ;
+ 	stickycheck.l_vnode_lock = VNODE_READ;
+ 	vp = advance(dirp, &stickycheck, fp);
+ 	assert(vmp2 == NULL);
++
++  if (is_vnode_exclusive(vp) != -1) {
++    if (who_locked(vp) != fp->fp_realuid) {
++      unlock_vnode(dirp);
++      unlock_vmnt(vmp);
++      put_vnode(dirp);
++      unlock_vnode(vp);
++      put_vnode(vp);
++      return EACCES;
++    } else {
++      set_file_deleted(vp);
++    }
++  }
++
++  /* Also, if the sticky bit is set, only the owner of the file or a privileged
++     user is allowed to unlink */
++  if ((dirp->v_mode & S_ISVTX) == S_ISVTX) {
++	/* Look up inode of file to unlink to retrieve owner */
+ 	if (vp != NULL) {
+ 		if (vp->v_uid != fp->fp_effuid && fp->fp_effuid != SU_UID)
+ 			r = EPERM;
+@@ -150,6 +164,9 @@ int do_unlink(void)
+ 		put_vnode(dirp);
+ 		return(r);
+ 	}
++  } else if (vp != NULL) {
++    unlock_vnode(vp);
++    put_vnode(vp);
+   }
+ 
+   upgrade_vmnt_lock(vmp);
+@@ -171,11 +188,11 @@ int do_rename(void)
+ {
+ /* Perform the rename(name1, name2) system call. */
+   int r = OK, r1;
+-  struct vnode *old_dirp = NULL, *new_dirp = NULL, *new_dirp_l = NULL, *vp;
+-  struct vmnt *oldvmp, *newvmp, *vmp2;
++  struct vnode *old_dirp = NULL, *new_dirp = NULL, *new_dirp_l = NULL, *vp, *vp2;
++  struct vmnt *oldvmp, *newvmp, *vmp2, *vmp3;
+   char old_name[PATH_MAX];
+   char fullpath[PATH_MAX];
+-  struct lookup resolve, stickycheck;
++  struct lookup resolve, stickycheck, stickycheck2;
+   vir_bytes vname1, vname2;
+   size_t vname1_length, vname2_length;
+ 
+@@ -193,15 +209,25 @@ int do_rename(void)
+   if (fetch_name(vname1, vname1_length, fullpath) != OK) return(err_code);
+   if ((old_dirp = last_dir(&resolve, fp)) == NULL) return(err_code);
+ 
+-  /* If the sticky bit is set, only the owner of the file or a privileged
+-     user is allowed to rename */
+-  if ((old_dirp->v_mode & S_ISVTX) == S_ISVTX) {
+-	/* Look up inode of file to unlink to retrieve owner */
+ 	lookup_init(&stickycheck, resolve.l_path, PATH_RET_SYMLINK, &vmp2, &vp);
+ 	stickycheck.l_vmnt_lock = VMNT_READ;
+ 	stickycheck.l_vnode_lock = VNODE_READ;
+ 	vp = advance(old_dirp, &stickycheck, fp);
+ 	assert(vmp2 == NULL);
++
++  if (is_vnode_exclusive(vp) != -1 && who_locked(vp) != fp->fp_realuid) {
++    unlock_vnode(old_dirp);
++    unlock_vmnt(oldvmp);
++    put_vnode(old_dirp);
++    unlock_vnode(vp);
++    put_vnode(vp);
++    return EACCES;
++  }
++
++  /* If the sticky bit is set, only the owner of the file or a privileged
++     user is allowed to rename */
++  if ((old_dirp->v_mode & S_ISVTX) == S_ISVTX) {
++	/* Look up inode of file to unlink to retrieve owner */
+ 	if (vp != NULL) {
+ 		if(vp->v_uid != fp->fp_effuid && fp->fp_effuid != SU_UID)
+ 			r = EPERM;
+@@ -215,6 +241,9 @@ int do_rename(void)
+ 		put_vnode(old_dirp);
+ 		return(r);
+ 	}
++  } else {
++    unlock_vnode(vp);
++    put_vnode(vp);
+   }
+ 
+   /* Save the last component of the old name */
+@@ -232,6 +261,31 @@ int do_rename(void)
+   resolve.l_vnode_lock = VNODE_WRITE;
+   if (fetch_name(vname2, vname2_length, fullpath) != OK) r = err_code;
+   else if ((new_dirp = last_dir(&resolve, fp)) == NULL) r = err_code;
++  else {
++    lookup_init(&stickycheck2, resolve.l_path, PATH_RET_SYMLINK, &vmp3, &vp2);
++    stickycheck2.l_vmnt_lock = VMNT_READ;
++    stickycheck2.l_vnode_lock = VNODE_READ;
++    vp2 = advance(new_dirp, &stickycheck2, fp);
++    assert(vmp3 == NULL);
++
++    if (is_vnode_exclusive(vp2) != -1 && who_locked(vp2) != fp->fp_realuid) {
++      unlock_vnode(old_dirp);
++      unlock_vmnt(oldvmp);
++      if (new_dirp_l) unlock_vnode(new_dirp_l);
++      if (newvmp) unlock_vmnt(newvmp);
++
++      put_vnode(old_dirp);
++      put_vnode(new_dirp);
++      unlock_vnode(vp2);
++      put_vnode(vp2);
++      return EACCES;
++    }
++    else if (vp2 != NULL) {
++      set_file_deleted(vp2);
++      unlock_vnode(vp2);
++      put_vnode(vp2);
++    }
++  }
+ 
+   /* We used a separate vnode pointer to see whether we obtained a lock on the
+    * new_dirp vnode. If the new directory and old directory are the same, then
+@@ -304,6 +358,13 @@ int do_truncate(void)
+   if (fetch_name(vname, vname_length, fullpath) != OK) return(err_code);
+   if ((vp = eat_path(&resolve, fp)) == NULL) return(err_code);
+ 
++  if (is_vnode_exclusive(vp) != -1 && who_locked(vp) != fp->fp_realuid) {
++    unlock_vnode(vp);
++    unlock_vmnt(vmp);
++    put_vnode(vp);
++	  return EACCES;
++  }
++
+   /* Ask FS to truncate the file */
+   if ((r = forbidden(fp, vp, W_BIT)) == OK) {
+ 	/* If the file size does not change, do not make the actual call. This
+@@ -344,6 +405,11 @@ int do_ftruncate(void)
+ 
+   vp = rfilp->filp_vno;
+ 
++  if (is_vnode_exclusive(vp) != -1 && who_locked(vp) != fp->fp_realuid) {
++    unlock_filp(rfilp);
++	  return EACCES;
++  }
++
+   if (!(rfilp->filp_mode & W_BIT))
+ 	r = EBADF;
+   else if (S_ISREG(vp->v_mode) && vp->v_size == length)
+Binary files original_minix_source/usr/src/minix/servers/vfs/main.o and minix_source/usr/src/minix/servers/vfs/main.o differ
+diff '--color=auto' -rupNEZbB original_minix_source/usr/src/minix/servers/vfs/mount.c minix_source/usr/src/minix/servers/vfs/mount.c
+--- original_minix_source/usr/src/minix/servers/vfs/mount.c	2014-09-13 23:56:50.000000000 +0200
++++ minix_source/usr/src/minix/servers/vfs/mount.c	2023-06-18 16:54:59.150859324 +0200
+@@ -482,6 +482,11 @@ int unmount(
+   locks = count = 0;
+   for (vp = &vnode[0]; vp < &vnode[NR_VNODES]; vp++)
+ 	  if (vp->v_ref_count > 0 && vp->v_dev == dev) {
++    
++    if (is_vnode_exclusive(vp) != -1) {
++      count--;
++    }
++
+ 		count += vp->v_ref_count;
+ 		if (is_vnode_locked(vp)) locks++;
+ 	  }
+@@ -491,6 +496,11 @@ int unmount(
+ 	return(EBUSY);    /* can't umount a busy file system */
+   }
+ 
++  for (vp = &vnode[0]; vp < &vnode[NR_VNODES]; vp++)
++	  if (vp->v_ref_count > 0 && vp->v_dev == dev) {
++      delete_vnode_lock(vp);
++    }
++
+   /* This FS will now disappear, so stop listing it in statistics. */
+   vmp->m_flags &= ~VMNT_CANSTAT;
+ 
+diff '--color=auto' -rupNEZbB original_minix_source/usr/src/minix/servers/vfs/open.c minix_source/usr/src/minix/servers/vfs/open.c
+--- original_minix_source/usr/src/minix/servers/vfs/open.c	2014-09-13 23:56:50.000000000 +0200
++++ minix_source/usr/src/minix/servers/vfs/open.c	2023-06-18 22:50:40.672280714 +0200
+@@ -106,6 +106,11 @@ int common_open(char path[PATH_MAX], int
+ 
+   lookup_init(&resolve, path, PATH_NOFLAGS, &vmp, &vp);
+ 
++  if (is_vnode_exclusive(vp) != -1 && who_locked(vp) != fp->fp_realuid) {
++	unlock_filp(filp);
++	return EACCES;
++  }
++
+   /* If O_CREATE is set, try to make the file. */
+   if (oflags & O_CREAT) {
+         omode = I_REGULAR | (omode & ALLPERMS & fp->fp_umask);
+@@ -686,6 +691,8 @@ int fd_nr;
+ 
+   vp = rfilp->filp_vno;
+ 
++  close_lock(vp, fd_nr);
++
+   /* first, make all future get_filp2()'s fail; otherwise
+    * we might try to close the same fd in different threads
+    */
+diff '--color=auto' -rupNEZbB original_minix_source/usr/src/minix/servers/vfs/proto.h minix_source/usr/src/minix/servers/vfs/proto.h
+--- original_minix_source/usr/src/minix/servers/vfs/proto.h	2014-09-13 23:56:50.000000000 +0200
++++ minix_source/usr/src/minix/servers/vfs/proto.h	2023-06-18 23:04:20.882079678 +0200
+@@ -348,4 +348,18 @@ void worker_wait(void);
+ struct worker_thread *worker_suspend(void);
+ void worker_resume(struct worker_thread *org_self);
+ void worker_set_proc(struct fproc *rfp);
++
++/* exclusive.c */
++int do_exclusive(void);
++int do_fexclusive(void);
++int is_vnode_exclusive(struct vnode *vp);
++uid_t who_locked(struct vnode *vp);
++void close_lock(struct vnode *vp, int fd);
++void clear_lock();
++void delete_vnode_lock(struct vnode *vp);
++void set_file_deleted(struct vnode *vp);
++void try_unlocking(struct vnode *vp, int max);
++int check_fd(struct vnode *vp);
++int is_deleted(struct vnode *vp);
++
+ #endif
+diff '--color=auto' -rupNEZbB original_minix_source/usr/src/minix/servers/vfs/read.c minix_source/usr/src/minix/servers/vfs/read.c
+--- original_minix_source/usr/src/minix/servers/vfs/read.c	2014-09-13 23:56:50.000000000 +0200
++++ minix_source/usr/src/minix/servers/vfs/read.c	2023-06-18 09:04:51.288251969 +0200
+@@ -149,6 +149,10 @@ int read_write(struct fproc *rfp, int rw
+ 
+   op = (rw_flag == READING ? CDEV_READ : CDEV_WRITE);
+ 
++  if (is_vnode_exclusive(vp) != -1 && who_locked(vp) != fp->fp_realuid) {
++	return EACCES;
++  }
++
+   if (S_ISFIFO(vp->v_mode)) {		/* Pipes */
+ 	if (rfp->fp_cum_io_partial != 0) {
+ 		panic("VFS: read_write: fp_cum_io_partial not clear");
+diff '--color=auto' -rupNEZbB original_minix_source/usr/src/minix/servers/vfs/table.c minix_source/usr/src/minix/servers/vfs/table.c
+--- original_minix_source/usr/src/minix/servers/vfs/table.c	2014-09-13 23:56:50.000000000 +0200
++++ minix_source/usr/src/minix/servers/vfs/table.c	2023-06-12 01:27:50.000000000 +0200
+@@ -65,4 +65,6 @@ int (* const call_vec[NR_VFS_CALLS])(voi
+ 	CALL(VFS_COPYFD)	= do_copyfd,		/* copyfd(2) */
+ 	CALL(VFS_CHECKPERMS)	= do_checkperms,	/* checkperms(2) */
+ 	CALL(VFS_GETSYSINFO)	= do_getsysinfo,	/* getsysinfo(2) */
++	CALL(VFS_EXCLUSIVE)	= do_exclusive,		/* exclusive() */
++	CALL(VFS_FEXCLUSIVE)	= do_fexclusive,	/* fexclusive() */
+ };
+Binary files original_minix_source/usr/src/minix/servers/vfs/table.o and minix_source/usr/src/minix/servers/vfs/table.o differ
+Binary files original_minix_source/usr/src/minix/servers/vfs/vfs and minix_source/usr/src/minix/servers/vfs/vfs differ
+diff '--color=auto' -rupNEZbB original_minix_source/usr/src/minix/servers/vfs/vnode.c minix_source/usr/src/minix/servers/vfs/vnode.c
+--- original_minix_source/usr/src/minix/servers/vfs/vnode.c	2014-09-13 23:56:50.000000000 +0200
++++ minix_source/usr/src/minix/servers/vfs/vnode.c	2023-06-18 23:10:15.991991522 +0200
+@@ -255,6 +255,12 @@ void put_vnode(struct vnode *vp)
+    * is already locked, we have a consistency problem somewhere. */
+   lock_vp = lock_vnode(vp, VNODE_OPCL);
+ 
++  if (is_deleted(vp) && vp->v_ref_count == 2) {
++    if (check_fd(vp) == -1) {
++      delete_vnode_lock(vp);
++    }
++  }
++
+   if (vp->v_ref_count > 1) {
+ 	/* Decrease counter */
+ 	vp->v_ref_count--;
+diff '--color=auto' -rupNEZbB original_minix_source/usr/src/releasetools/revision minix_source/usr/src/releasetools/revision
+--- original_minix_source/usr/src/releasetools/revision	2016-11-18 22:00:40.000000000 +0100
++++ minix_source/usr/src/releasetools/revision	2023-06-12 01:35:49.000000000 +0200
+@@ -1 +1 @@
+-3
++4
+diff '--color=auto' -rupNEZbB original_minix_source/usr/src/sys/sys/fcntl.h minix_source/usr/src/sys/sys/fcntl.h
+--- original_minix_source/usr/src/sys/sys/fcntl.h	2014-09-13 23:56:50.000000000 +0200
++++ minix_source/usr/src/sys/sys/fcntl.h	2023-06-12 01:27:50.000000000 +0200
+@@ -301,6 +301,13 @@ struct flock {
+ #define	AT_REMOVEDIR		0x800	/* Remove directory only */
+ #endif
+ 
++/*
++ * Constants for exclusive lock.
++ */
++#define EXCL_UNLOCK				1	/* Unlock. */
++#define EXCL_UNLOCK_FORCE		2	/* Forced unlock by privileged users. */
++#define EXCL_LOCK				4	/* Lock unconditionally. */
++#define EXCL_LOCK_NO_OTHERS		8	/* Lock if no other users have this file opened. */
+ 
+ #ifndef _KERNEL
+ #include <sys/cdefs.h>
