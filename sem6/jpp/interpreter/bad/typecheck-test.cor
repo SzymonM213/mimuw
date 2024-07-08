@@ -1,0 +1,8 @@
+int main() {
+    int x = 1;
+    if (false) {
+        // won't be executed
+        x = "2";
+    } 
+    return 0;
+}

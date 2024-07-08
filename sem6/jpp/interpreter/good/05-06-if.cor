@@ -1,0 +1,16 @@
+int collatz(int n) {
+    printInt(n);
+    if (n == 1) {
+        return 1;
+    } 
+    if (n % 2 == 0) {
+        return 1 + collatz(n / 2);
+    } else {
+        return 1 + collatz(3 * n + 1);
+    }
+}
+
+int main() {
+    int n = 213;
+    return collatz(n);
+}

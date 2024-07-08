@@ -1,0 +1,12 @@
+void foo() {
+    {
+        int x = 0;
+    }
+    printInt(x);
+}
+
+int main() {
+    int x = 7;
+    foo();
+    return 0;
+}

@@ -1,0 +1,18 @@
+int add(int a, int b) {
+    return a + b;
+}
+
+string concat(string a, string b) {
+    return a + b;
+}
+
+bool xor(bool a, bool b) {
+    return a != b;
+}
+
+int main() {
+    printInt(add(1, 2));
+    printString(concat("Hello", "World"));
+    printBool(xor(true, false));
+    return 0;
+}

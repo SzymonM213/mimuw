@@ -1,0 +1,7 @@
+int x;
+int x = 5;
+
+int main() {
+    printInt(x);
+    return 0;
+}

@@ -1,0 +1,10 @@
+void strings() {
+    printString("hello " + "world");
+    printBool("hello" != "world");
+    printBool("hello" == "hello");
+}
+
+int main() {
+    strings();
+    return 0;
+}

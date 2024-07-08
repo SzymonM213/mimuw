@@ -1,0 +1,8 @@
+int f(int a, int b) {
+    return a + b - 4;
+}
+
+int main() {
+    printInt(f(1, 2, 3));
+    return 0;
+}

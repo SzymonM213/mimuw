@@ -1,0 +1,19 @@
+int main() {
+    int a;
+    string b;
+    bool c;
+
+    a = 7;
+    b = "hello";
+    c = true;
+
+    a = -a;
+    b = b + " world";
+    c = !c;
+
+    printInt(a);
+    printString(b);
+    printBool(c);
+
+    return 0;
+}

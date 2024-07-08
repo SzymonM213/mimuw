@@ -1,0 +1,12 @@
+void bools() {
+    printBool(true && true);
+    printBool(false || true);
+    printBool(true);
+    printBool(!false);
+    printBool(false == false);
+}
+
+int main() {
+    bools();
+    return 0;
+}

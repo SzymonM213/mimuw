@@ -1,0 +1,14 @@
+bool negate(bool &b) {
+    b = !b;
+    return true;
+}
+
+int main() {
+    bool b = true;
+    printBool(b); // true
+    bool c = negate(b);
+    printBool(b); // false
+    c = negate(b);
+    printBool(b); // true
+    return 0;
+}

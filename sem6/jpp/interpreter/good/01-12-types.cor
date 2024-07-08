@@ -1,0 +1,6 @@
+int main() {
+    int a = 2;
+    string b = "hello";
+    bool c = true;
+    return 0;
+}

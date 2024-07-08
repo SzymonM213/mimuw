@@ -1,0 +1,15 @@
+int main() {
+    int i = 0;
+    while (i < 10) {
+        if (i % 2 == 0) {
+            printInt(i);
+        }
+        if (i % 3 == 0) {
+            printInt(i / 3);
+        } else {
+            printInt(i * 3);
+        }
+        i++;
+    }
+    return 0;
+}

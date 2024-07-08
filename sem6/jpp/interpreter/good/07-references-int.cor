@@ -1,0 +1,24 @@
+void foo(int x) {
+    x = x + 1;
+}
+
+void bar(int &x) {
+    x = x + 1;
+}
+
+int incr(int &x) {
+    x++;
+    return x;
+}
+
+int main() {
+    int x = 0;
+    foo(x);
+    printInt(x); // 0
+    bar(x);
+    printInt(x); // 1
+    int z;
+    z = incr(x);
+    printInt(x); // 2
+    return 0;
+}

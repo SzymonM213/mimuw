@@ -1,0 +1,11 @@
+void turnUp(string &str) {
+    str = str + "!!!";
+}
+
+int main() {
+    string str = "Hello";
+    printString(str);
+    turnUp(str);
+    printString(str);
+    return 0;
+}

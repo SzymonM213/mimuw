@@ -1,0 +1,24 @@
+void ints() {
+    printInt(1 + 2);
+    printInt(1 * 2);
+    printInt(2 - 1);
+    printInt(2 / 1);
+    printInt(7 % 2);
+    printInt(((2 + 6) * 18 / 3) % 5);
+    printBool(2 != 1);
+    printBool(2 == 2);
+    printBool(2 < 3);
+    printBool(2 <= 3);
+    int x = 5;
+    printInt(x);
+    x--;
+    printInt(x);
+    x++;
+    printInt(x);
+    printInt(-x);
+}
+
+int main() {
+    ints();
+    return 0;
+}

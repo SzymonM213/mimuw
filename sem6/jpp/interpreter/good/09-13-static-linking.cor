@@ -1,0 +1,29 @@
+int x = 1;
+
+void f() {
+    printString("f1");
+}
+
+void g() {
+    f(); // f1
+    printInt(x); // 1
+}
+
+int main() {
+    int x = 0;
+    int y = 0;
+    {
+        int x = 2;
+        y = 3;
+        x++;
+        y++;
+    }
+    printInt(x); // 0
+    printInt(y); // 4
+    void f() {
+        printString("f2");
+    }
+
+    g();
+    return 0;
+}
